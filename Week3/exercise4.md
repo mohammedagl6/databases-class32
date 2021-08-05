@@ -1,0 +1,7 @@
+- Creating an account in Atlas MongoDB.
+- Creating Cluster.
+- Creating Database (world).
+- Creating Network and the database access.
+- Copying the connection String.
+- installing mongodb and csvtojson packages.
+- executing the file exercise4.js after changing access parameters in the connection string.
